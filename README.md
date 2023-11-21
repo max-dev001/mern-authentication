@@ -1,6 +1,6 @@
-## MERN Authentication
+### MERN Authentication
 
-## How to Use
+###How to Use
 
 - Clone the repository.
 - Go to client directory and run command **npm install**.
@@ -10,7 +10,7 @@
 - Run command **npm install** to install the dependencies.
 - Run command **npm run server** to start the server.
 
-## Screenshots
+### Screenshots
 
 ![Register Screen](https://github.com/AnumMujahid/mern-authentication/blob/main/Resources/a1.png)
 
